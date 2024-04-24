@@ -11,7 +11,7 @@ git()
 dbb()
 heroku()
 
-app = Dil()
+app = NISHAD()
 userbot = Userbot()
 
 
