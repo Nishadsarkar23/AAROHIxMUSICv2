@@ -162,4 +162,4 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-- <b> ᴠᴇʀʏ sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [NISHAD](https://github.com/stkeditz) ғᴏʀ [nishad ᴍᴜsɪᴄ ʙᴏᴛ](https://t.me/teri_meri_yaari_pyari) </b>
+- <b> ᴠᴇʀʏ sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [KARTIK](https://github.com/stkeditz) ғᴏʀ [nishad ᴍᴜsɪᴄ ʙᴏᴛ](https://t.me/teri_meri_yaari_pyari) </b>
